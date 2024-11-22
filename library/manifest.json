@@ -1,0 +1,39 @@
+{
+  "resourceId": "lasso",
+  "content": [{
+    "id": "lasso",
+    "name": "Lasso",
+    "description": "Entrapment",
+    "type": "assist",
+    "objectStatsId": "assisttemplateAssistObjectStats",
+    "animationStatsId": "assisttemplateAnimationStats",
+    "hitboxStatsId": "assisttemplateHitboxStats",
+    "scriptId": "assisttemplateScript",
+    "costumesId": "assisttemplateCostumes",
+    "metadata": {
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"assist_full",
+          "animation_icon_no_palette":"assist_css"
+        },
+        "hud":{
+          "animation":"assist_hud"
+        },
+        "css":{
+          "animation":"assist_css",
+          "info":{
+            "game":"Nuova's & Kactus' Vision",
+            "description":"Tie up the opponent and yank them back after every hit! Lasso tethers the enemy to the user for while, not letting them get away. But be careful because this can also benefit the opps."
+          }
+        }
+      }
+    }
+  },{
+    "id": "eyes",
+    "type": "projectile",
+    "objectStatsId": "eyesStats",
+    "animationStatsId": "assisttemplateAnimationStats",
+    "scriptId": "eyesScript"
+  }]
+}

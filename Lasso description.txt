@@ -1,0 +1,28 @@
+[h3] Created for the Unique Assists Fraymakers workshop contest. [/h3]
+
+Tie up the opponent and yank them back after every hit! Lasso isn’t just a normal hitting assist, but a tool that can make insane combos that would never normally be possible, or help with neutral for a brawler who needs to keep the foe close. When you hit the enemy with Lasso he tethers them to you for a while, not letting them get away. This can also benefit opponents as well because it IS just pulling them to you, so be careful. After a bit of fighting Lasso will get too tired and snap loose, giving one more good pull as he goes. In conclusion Lasso is just a cute lil guy.
+
+[img] https://media.discordapp.net/attachments/1078370968457711666/1236225875977175040/woosh.gif?ex=6637e550&is=663693d0&hm=cd5b18f2042af987dd0d87076febaa2029504658ffb9636ce91b6f78b7b5b479&= [/img]
+
+[h3] Pull opponents back to you! [/h3]
+
+[img] https://media.discordapp.net/attachments/1078370968457711666/1236253803200905246/woosh.gif?ex=66375693&is=66360513&hm=b48da6ed7fa4d7d2ecf7733475944d298c416a3209ea9d982d60cf12c89c882e&= [/img]
+
+[h3] Lasso will start flashing to indicate low stamina! He will give you one last pull before snapping loose! [/h3]
+
+[img] https://media.discordapp.net/attachments/1078370968457711666/1236272689258168351/woosh-1.gif?ex=66376829&is=663616a9&hm=e0732ecd3e6511385f6de733a404b87bbd74a1a8cf64a9b140996a3174ebb709&= [/img]
+
+[table]
+    [tr]
+        [th]Team[/th]
+        [th]Credits[/th]
+    [/tr]
+    [tr]
+        [td]Nuova[/td]
+        [td]Rope rendering, Rope physics and Tile code[/td]
+    [/tr]
+    [tr]
+        [td]Kactus[/td]
+        [td]Art, Gameplay physics, and Eyes [/td]
+    [/tr]
+[/table]

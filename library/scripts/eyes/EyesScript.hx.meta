@@ -1,0 +1,18 @@
+{
+  "export": true,
+  "guid": "44a7a1c5-b7c3-4e0c-9b6f-a2035383a0aa",
+  "id": "eyesScript",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "objectType": "PROJECTILE",
+      "version": "0.3.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

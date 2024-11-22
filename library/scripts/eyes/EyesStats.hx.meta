@@ -1,0 +1,16 @@
+{
+  "export": true,
+  "guid": "4305f49f-26e4-4c72-b0ea-756b290a5159",
+  "id": "eyesStats",
+  "language": "",
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.0.18"
+    }
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
